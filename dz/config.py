@@ -1,8 +1,8 @@
 from enum import Enum
 
-token = '5096756347:AAEyvUCnXOxvB7E6mTUYAIz3pFVIxIei_XQ'
+token = "token"
 
-appid = "787682f6a13f2e2fbae3243051e8946a"
+appid = "appid"
 
 db_file = "db.vdb"
 CURRENT_STATE = "CURRENT_STATE"
